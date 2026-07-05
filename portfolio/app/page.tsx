@@ -16,10 +16,8 @@ export default function Home() {
         </h2>
         <ScrollReveal variant="blur" delay={0.1}>
           <p className="max-w-xl text-[var(--color-ink-muted)]">
-            A composable CMS for people who need a website, and a clothing
-            line built from the five poisons of the mind. Different
-            materials. Same instinct: reduce something complicated to its
-            working parts.
+            I build systems and study aesthetics.  
+            From software to fashion to philosophy to table tennis, I’m interested in precision, discipline, and form under pressure.
           </p>
         </ScrollReveal>
       </section>
