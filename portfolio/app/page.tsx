@@ -25,8 +25,8 @@ export default function Home() {
       <section className="flex min-h-screen items-center justify-center px-6">
         <ScrollReveal variant="mask" className="max-w-2xl text-center">
           <p className="font-display text-3xl text-[var(--color-ink)] md:text-5xl">
-            More sections — Projects, Journey, Playground, Fashion Objects,
-            Writing, Contact — build on these same primitives.
+            If suffering really taught lessons, the world would be populated only by wise men. Pain has nothing to teach those who do not find the strength and courage to listen to it.
+-Sigmund Freud-
           </p>
         </ScrollReveal>
       </section>

@@ -63,7 +63,7 @@ export function SiteNav() {
             className="font-display text-xl tracking-tight text-[var(--color-ink)]"
             aria-label="Lodxdy — home"
           >
-            L.
+            Lods...
           </Link>
 
           {/* Desktop links */}

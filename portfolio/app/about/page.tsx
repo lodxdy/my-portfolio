@@ -66,6 +66,9 @@ export default function AboutSection() {
             Currently exploring advanced UI animation, design systems, and
             scalable frontend architecture.
           </p>
+          <p>
+            I love reading about design, philosophy, and technology. When I’m not coding, you can find me playing table tennis, hiking, or experimenting with photography.
+          </p>
         </motion.div>
 
         {/* Info Card */}

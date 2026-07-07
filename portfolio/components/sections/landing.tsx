@@ -56,7 +56,7 @@ export function Landing() {
 
       <div className="relative z-10 flex flex-col items-center gap-6 px-6 text-center">
         <span className="font-mono-label text-[var(--color-ink-muted)]">
-          Lodxdy — Creative Developer
+          Lods — Creative Developer
         </span>
 
         <h1 className="font-display text-[14vw] leading-[0.95] text-[var(--color-ink)] sm:text-[10vw] md:text-[7vw]">
