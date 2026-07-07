@@ -13,7 +13,7 @@ export const projects: Project[] = [
     title: "Service Dot BT Web App",
     description:
       "A service marketplace connecting freelancers and clients with bidding and profile systems.",
-    image: "/projects/service-bt.png",
+    image: "/images/project/Servicedotbt.jpeg",
     tags: ["Next.js", "Django REST", "PostgreSQL", "Upstash"],
     status: "completed",
   },
@@ -22,17 +22,17 @@ export const projects: Project[] = [
     title: "Dzongkha Tracing App",
     description:
       "Interactive learning system for Dzongkha character stroke tracing with animation guidance.",
-    image: "/projects/dzongkha.png",
+    image: "/images/project/dzg-tracing-app.png",
     tags: ["React Native", "SVG", "Animation"],
     status: "concept",
   },
   {
-    id: "portfolio-system",
-    title: "Portfolio Framework",
+    id: "dating-app",
+    title: "Bhutanese Dating App",
     description:
-      "Cinematic portfolio system built with GSAP and Framer Motion.",
-    image: "/projects/portfolio.png",
-    tags: ["Next.js", "GSAP", "Framer Motion"],
-    status: "completed",
+      "A side project during internship at DC, a modern dating application with real-time chat and location-based matching.",
+    image: "/images/project/dating-app.png",
+    tags: ["Next.js", "Firebase", "Tailwind CSS"],
+    status: "concept",
   },
 ];
