@@ -29,7 +29,7 @@ export function ContactSection() {
         <div className="space-y-8">
 
           <a
-            href="mailto:you@example.com"
+            href="mailto:lods.dxdy@gmail.com"
             className="flex items-center gap-4 transition hover:text-yellow-400"
           >
             <Mail size={18} />
