@@ -51,7 +51,7 @@ export function ContactSection() {
             className="flex items-center gap-4 transition hover:text-yellow-400"
           >
             <FaLinkedin size={18} />
-            linkedin.com/in/yourusername
+            linkedin.com/in/Loday Tempa Gyeltshen
           </a>
 
           <a
