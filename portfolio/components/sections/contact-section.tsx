@@ -94,7 +94,7 @@ export function ContactSection() {
           <button
             className="rounded-full border border-yellow-500 px-8 py-3 transition hover:bg-yellow-500 hover:text-black"
           >
-            Send Message
+            Don't Send Message, It is not working yet
           </button>
 
         </motion.form>
