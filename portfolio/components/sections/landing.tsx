@@ -48,7 +48,7 @@ export function Landing() {
               width={380}
               height={240}
               depth={0}
-              className="bottom-[16%] left-[14%] opacity-60 md:block"
+              className="bottom-[16%] left-[14%] hidden opacity-60 md:block"
             />
           </motion.div>
         )}
