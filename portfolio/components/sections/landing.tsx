@@ -32,7 +32,7 @@ export function Landing() {
               width={420}
               height={280}
               depth={1}
-              className="left-[8%] top-[20%] hidden opacity-70 md:block"
+              className="left-[8%] top-[20%] opacity-70 md:block"
             />
             <FloatingObject
               src="/images/fragments/five-poisons-sketch.svg"
@@ -48,7 +48,7 @@ export function Landing() {
               width={380}
               height={240}
               depth={0}
-              className="bottom-[16%] left-[14%] hidden opacity-60 md:block"
+              className="bottom-[16%] left-[14%] opacity-60 md:block"
             />
           </motion.div>
         )}

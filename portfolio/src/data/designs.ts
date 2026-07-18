@@ -5,9 +5,9 @@ export const designs = [
     image: "/images/designs/logos/logo1.jpg",
   },
   {
-    title: "Service BT UI Concept",
-    category: "UI/UX",
-    image: "/images/designs/ui/servicebt.jpg",
+    title: "Jukar - Space Exploration",
+    category: "Logo",
+    image: "/images/designs/logos/logo2.jpg",
   },
   {
     title: "Dark Identity Study",
