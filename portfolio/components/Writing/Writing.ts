@@ -1,12 +1,14 @@
-type Piece = {
+export type Piece = {
   id: string;
   title: string;
-  kind: string;
+  kind: string; // "Essay", "Notes", "Fragment"...
   date: string;
+  /** spine look */
   color: string;
   ink: string;
-  height: number;
-  width: number;
+  height: number; // px
+  width: number; // px
+  /** each string is one paragraph in the notebook */
   body: string[];
 };
 
